@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  background-color: lightblue;
+}
+
+.header-container {
+  background-color: rgb(16, 65, 82);
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+  margin: 0;
+  padding: 50px 0;
+}
+
+h3 {
+  text-align: center;
+  border-top: 3px #000;
+}
+
+button {
+  padding: 6px 10px;
+  border-radius: 10px;
+  border: solid whitesmoke;
+  background-color: #0c6291;
+  color: whitesmoke;
+  font-family: "Markazi Text", serif;
+  font-size: 12px;
+  margin: auto;
+}
+
+button:hover {
+  background-color: #81b8d9;
+}

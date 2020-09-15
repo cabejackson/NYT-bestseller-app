@@ -1,3 +1,5 @@
+This was an example problem to work with Express response objects
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
